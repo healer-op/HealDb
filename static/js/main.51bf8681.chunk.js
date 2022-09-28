@@ -899,7 +899,7 @@
                     return Object(p.jsxs)(p.Fragment, {
                         children: [Object(p.jsx)(ue.a, {
                             className: "frame",
-                            url: "https://www.2embed.org/embed/tmdb/movie?id=".concat(t),
+                            url: "https://2embed.org/embed/movie?imdb=".concat(t),
                             width: "100%",
                             height: "100%",
                             allowFullScreen: !0,
@@ -997,7 +997,7 @@
                     }), [j]), Object(p.jsxs)(p.Fragment, {
                         children: [Object(p.jsx)(ue.a, {
                             className: "frame",
-                            url: "https://www.2embed.org/embed/tmdb/tv?id=".concat(j, "&s=").concat(w, "&e=").concat(m),
+                            url: "https://2embed.org/embed/series?imdb=".concat(j, "&s=").concat(w, "&e=").concat(m),
                             width: "100%",
                             height: "100%",
                             allowFullScreen: !0,
