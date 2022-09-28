@@ -899,7 +899,7 @@
                     return Object(p.jsxs)(p.Fragment, {
                         children: [Object(p.jsx)(ue.a, {
                             className: "frame",
-                            url: "https://www.2embed.to/embed/imdb/movie?id=".concat(t),
+                            url: "https://www.2embed.to/embed/tmdb/movie?id=".concat(t),
                             width: "100%",
                             height: "100%",
                             allowFullScreen: !0,
